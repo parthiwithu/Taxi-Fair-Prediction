@@ -1,8 +1,9 @@
 # Taxi-Fair-Prediction
 This project focuses on predicting taxi fare amounts using ML models. It includes thorough exploratory data analysis, preprocessing pipelines for handling numerical and categorical features, and implementation of multiple regression models including Linear Regression, Random Forest, Gradient Boosting, and XGBoost.evaluated using RMSE and R2 scores.
 # Data Source
-(https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)- yellow_tripdata_2025-06
- 
+(https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- yellow_tripdata_2025-06
+- [data_dictionary_trip_records_yellow.pdf](https://github.com/user-attachments/files/21566270/data_dictionary_trip_records_yellow.pdf)
 # Taxi Fare Prediction using Machine Learning
 
 This project aims to predict the fare amount for taxi rides based on various trip-related features using machine learning techniques. The dataset includes pickup/drop-off times, trip distance, passenger count, and more. A complete ML pipeline is built with preprocessing, model training, and evaluation.
@@ -16,7 +17,6 @@ This project aims to predict the fare amount for taxi rides based on various tri
 - Feature Engineering
 - Data Preprocessing with ColumnTransformer
 - Model Training with multiple regressors
-[data_dictionary_trip_records_yellow.pdf](https://github.com/user-attachments/files/21566270/data_dictionary_trip_records_yellow.pdf)
 - Performance Evaluation using RMSE and R2
     
  ## Models Used
