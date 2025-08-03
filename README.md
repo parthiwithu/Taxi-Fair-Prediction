@@ -46,3 +46,5 @@ This project aims to predict the fare amount for taxi rides based on various tri
 4. Modeling
    - Pipelines built with preprocessing and model
    - Evaluation using RMSE and R2
+## Conclusion
+In summary, ensemble methods like Gradient Boosting and Random Forest proved to be more effective for this fare prediction task, due to their ability to model non-linear relationships and interactions between features.
